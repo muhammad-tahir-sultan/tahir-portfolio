@@ -12,7 +12,7 @@ export default function Contact() {
         <div className="flex flex-col items-center justify-center">
           <div className="max-w-2xl w-full">
             <p className="text-gray-700 dark:text-gray-300 text-center mb-12 text-lg">
-              Feel free to reach out if you're looking for a MERN Stack developer, have a question, or just want to connect.
+              Feel free to reach out if you&#39;re looking for a MERN Stack developer, have a question, or just want to connect.
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
