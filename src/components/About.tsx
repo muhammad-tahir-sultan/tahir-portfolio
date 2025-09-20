@@ -17,7 +17,7 @@ export default function About() {
               Who am I?
             </h3>
             <p className="text-gray-700 dark:text-gray-300 mb-6">
-              I'm a passionate MERN Stack Developer with expertise in building full-stack web applications. 
+              I&#39;m a passionate MERN Stack Developer with expertise in building full-stack web applications. 
               With a strong foundation in MongoDB, Express.js, React, and Node.js, I create efficient, 
               scalable, and user-friendly solutions.
             </p>
@@ -27,7 +27,7 @@ export default function About() {
               exceptional digital experiences.
             </p>
             <p className="text-gray-700 dark:text-gray-300">
-              When I'm not coding, you can find me exploring new technologies, contributing to open-source 
+              When I&#39;m not coding, you can find me exploring new technologies, contributing to open-source 
               projects, or sharing knowledge with the developer community.
             </p>
           </div>
